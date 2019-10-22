@@ -11,7 +11,7 @@ public class multiply {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("请输入第一位数：");
 		a = sc.nextDouble();
-		System.out.println("请输入第二位数：");
+		System.out.println("请输入第2二位数：");
 		b = sc.nextInt();
 		result = a * b;
 		System.out.println(result);
