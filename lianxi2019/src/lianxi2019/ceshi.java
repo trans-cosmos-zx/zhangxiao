@@ -7,7 +7,7 @@ public class ceshi {
 		String str1 = "Hello World!";
 		System.out.println(str);
 		System.out.println(str1);
-		System.out.println("nihao");
+		System.out.println("nihao!");
 	}
 
 }
