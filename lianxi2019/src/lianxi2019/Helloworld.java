@@ -6,6 +6,7 @@ public class Helloworld {
 		// TODO Auto-generated method stub
 		String str = "abc";
 		String str1 = "abc";
+		String str2 = "xiugaiTest";
 	}
 
 }
