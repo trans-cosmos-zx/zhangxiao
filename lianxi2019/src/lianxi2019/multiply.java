@@ -9,7 +9,7 @@ public class multiply {
 		double b;
 		double result;
 		Scanner sc = new Scanner(System.in);
-		System.out.println("请输入第一位数：");
+		System.out.println("111111：");
 		a = sc.nextDouble();
 		System.out.println("请输入第2二位数：");
 		b = sc.nextInt();
