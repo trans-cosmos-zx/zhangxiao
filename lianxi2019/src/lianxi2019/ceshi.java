@@ -6,7 +6,6 @@ public class ceshi {
 		String str = "Hello World!";
 		String str1 = "Hello World!";
 		String str2 = "Hello World!";
-
 	}
 
 }
